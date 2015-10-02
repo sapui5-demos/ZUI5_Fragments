@@ -1,4 +1,4 @@
-sap.ui.controller("sap.training.view.Main3", {
+sap.ui.controller("sap.training.view.Main1", {
 
 	onButtonPress: function() {
 		alert("Button pressed");

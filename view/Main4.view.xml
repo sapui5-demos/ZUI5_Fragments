@@ -1,0 +1,11 @@
+<core:View 
+		xmlns:core="sap.ui.core"
+		xmlns:mvc="sap.ui.core.mvc"
+		xmlns="sap.m"
+		controllerName="sap.training.view.Main4"
+		xmlns:html="http://www.w3.org/1999/xhtml">
+		
+	<core:Fragment fragmentName="sap.training.view.XmlFrag2" id="myFrag" type="XML"/>
+	<core:Fragment fragmentName="sap.training.view.XmlFrag2" type="XML"/>
+	
+</core:View>
